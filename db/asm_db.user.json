@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "66802fc017919899a9449a0e"
+  },
+  "email": "duyp7484@gmail.com",
+  "password": "Ngocduy1",
+  "name": "duy",
+  "sdt": "0334491142",
+  "diaChi": "15/5 ấp mới 2",
+  "token": "",
+  "refeshToken": "",
+  "dataTime": "",
+  "vaiTro": "user"
+},
+{
+  "_id": {
+    "$oid": "668171410069ae6fbdbc68db"
+  },
+  "email": "duyp7494@gmail.com",
+  "password": "duy",
+  "name": "Quang",
+  "sdt": "",
+  "diaChi": "",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoiNjY4MTcxNDEwMDY5YWU2ZmJkYmM2OGRiIiwidmFpVHJvIjoidXNlciJ9LCJpYXQiOjE3MTk3NjI0MjAsImV4cCI6MTcxOTc2MjQ1MH0.IR4pKqkvGGA87Th2Dfk95HO8qjZ6RnjBGrCHv_pev4U",
+  "refeshToken": "",
+  "dataTime": "",
+  "vaiTro": "user",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoiNjY4MTcxNDEwMDY5YWU2ZmJkYmM2OGRiIiwidmFpVHJvIjoidXNlciJ9LCJpYXQiOjE3MjA2MTY5MzUsImV4cCI6MTcyMDYxNjk5NX0.JO6S43JQw8TRo6i625UOaiEHbQe0TDkV6ccGPPn94wQ",
+  "avatar": ""
+},
+{
+  "_id": {
+    "$oid": "6686a9ecce907d2608d80c17"
+  },
+  "email": "duyp7454@gmail.com",
+  "password": "$2b$10$FOs6rBiuDvPMw/gKpXkVQ.sCjO3gMQJzHK57FKqpoMBJOkeaN.8Oa",
+  "name": "Quang2",
+  "sdt": "",
+  "diaChi": "",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoiNjY4NmE5ZWNjZTkwN2QyNjA4ZDgwYzE3IiwidmFpVHJvIjoidXNlciJ9LCJpYXQiOjE3MjA2MTMzNDMsImV4cCI6MTcyMDYxMzQwM30.miYwSfXiUO0eRHWqfG0XSn89TugKDyZz05pJOmp1CwI",
+  "refeshToken": "",
+  "dataTime": "",
+  "vaiTro": "user",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoiNjY4NmE5ZWNjZTkwN2QyNjA4ZDgwYzE3IiwidmFpVHJvIjoidXNlciJ9LCJpYXQiOjE3MjExMTM5MjgsImV4cCI6MTcyMzcwNTkyOH0.ii0OFrM8ieU_8chq1NKnYx1IpF3d7LSw4UnoQCKp_q8",
+  "avatar": ""
+},
+{
+  "_id": {
+    "$oid": "668b85e68593d7c08fe1da2b"
+  },
+  "email": "test1@gmail.com",
+  "password": "$2b$10$CY4pPlwwtY1DwVV1GnAkGek8zw/e7a6MIFxzUVAShD6tN6FfdNQR.",
+  "name": "zxmot22",
+  "sdt": "",
+  "diaChi": "",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoiNjY4Yjg1ZTY4NTkzZDdjMDhmZTFkYTJiIiwidmFpVHJvIjoidXNlciJ9LCJpYXQiOjE3MjA1Mzk4NDAsImV4cCI6MTcyMDUzOTkwMH0.WK3UX_LkYJasQBWajTmFh2T2gexumByMvsp67i-g0_4",
+  "refeshToken": "",
+  "dataTime": "",
+  "vaiTro": "user",
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImlkIjoiNjY4Yjg1ZTY4NTkzZDdjMDhmZTFkYTJiIiwidmFpVHJvIjoidXNlciJ9LCJpYXQiOjE3MjExOTE4MjMsImV4cCI6MTcyMzc4MzgyM30.eKEPLVcF3u95xIbYUbd7cyEI-0h0VJHqKN9efFkWxX0"
+}]

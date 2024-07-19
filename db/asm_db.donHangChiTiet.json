@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "668c2fb527b797ef0dfe5326"
+  },
+  "id_donHang": "668c2fb527b797ef0dfe5325",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "id_sanPham": "66842ab2385b3ca35df0ff87",
+  "name": "Quần Short Kaki Nam",
+  "soLuong": 3,
+  "price": 45000,
+  "discount": 5
+},
+{
+  "_id": {
+    "$oid": "668c2fb527b797ef0dfe5327"
+  },
+  "id_donHang": "668c2fb527b797ef0dfe5325",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "id_sanPham": "66842a50385b3ca35df0ff86",
+  "name": "Quần tây nam slimfit",
+  "soLuong": 11,
+  "price": 55000,
+  "discount": 0
+},
+{
+  "_id": {
+    "$oid": "668c306c64a9e7236d426008"
+  },
+  "id_donHang": "668c306c64a9e7236d426007",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "id_sanPham": "66842ab2385b3ca35df0ff87",
+  "soLuong": 3,
+  "price": 45000,
+  "discount": 5,
+  "name": "Quần Short Kaki Nam"
+},
+{
+  "_id": {
+    "$oid": "668c306c64a9e7236d426009"
+  },
+  "id_donHang": "668c306c64a9e7236d426007",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "id_sanPham": "66842a50385b3ca35df0ff86",
+  "soLuong": 11,
+  "price": 55000,
+  "discount": 0,
+  "name": "Quần tây nam slimfit"
+},
+{
+  "_id": {
+    "$oid": "668c317664a9e7236d42600b"
+  },
+  "id_donHang": "668c317664a9e7236d42600a",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "id_sanPham": "66842ab2385b3ca35df0ff87",
+  "soLuong": 3,
+  "price": 45000,
+  "discount": 5,
+  "name": "Quần Short Kaki Nam"
+},
+{
+  "_id": {
+    "$oid": "668c317664a9e7236d42600c"
+  },
+  "id_donHang": "668c317664a9e7236d42600a",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "id_sanPham": "66842a50385b3ca35df0ff86",
+  "soLuong": 11,
+  "price": 55000,
+  "discount": 0,
+  "name": "Quần tây nam slimfit"
+},
+{
+  "_id": {
+    "$oid": "66961e937e06fda38e514fa7"
+  },
+  "id_donHang": "66961e937e06fda38e514fa6",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "id_sanPham": "66842a00385b3ca35df0ff85",
+  "soLuong": 1,
+  "price": "50000",
+  "discount": 10,
+  "name": "Quần Tây Phối Eo Thun"
+},
+{
+  "_id": {
+    "$oid": "66974dd781b8e6c773ffe71e"
+  },
+  "id_donHang": "66974dd781b8e6c773ffe71d",
+  "id_khachHang": "668b85e68593d7c08fe1da2b",
+  "id_sanPham": "66842a00385b3ca35df0ff85",
+  "soLuong": 1,
+  "price": "50000",
+  "discount": 10,
+  "name": "Quần Tây Phối Eo Thun"
+},
+{
+  "_id": {
+    "$oid": "66974dd781b8e6c773ffe71f"
+  },
+  "id_donHang": "66974dd781b8e6c773ffe71d",
+  "id_khachHang": "668b85e68593d7c08fe1da2b",
+  "id_sanPham": "66842a50385b3ca35df0ff86",
+  "soLuong": 1,
+  "price": 55000,
+  "discount": 0,
+  "name": "Quần tây nam slimfit"
+}]

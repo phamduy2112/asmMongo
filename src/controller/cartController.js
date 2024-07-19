@@ -7,13 +7,14 @@ const donHang=async (req,res)=>{
     try {
         const db = await connectDb(); // Kết nối tới cơ sở dữ liệu
         const categoriesCollection = db.collection("donHang"); // Lấy collection 'products'
-        const {tenKhachHang,soLuong,id_khachHang}=req.body;
+        const {tenKhachHang,soLuong,id_khachHang,tongTien}=req.body;
 
  
         let newDonHang={
             tenKhachHang,
             id_khachHang,
             soLuong,
+            tongTien,
             trangThai:"Đang chuẩn bị",
             ngayThang:new Date(),
         }

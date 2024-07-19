@@ -1,0 +1,338 @@
+[{
+  "_id": {
+    "$oid": "668c2a69c0c8ea48fcd12b0c"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:05:29.810Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2abdc0c8ea48fcd12b0d"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:06:53.106Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2b29c0c8ea48fcd12b0f"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:08:41.467Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2b2ac0c8ea48fcd12b10"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:08:42.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2b2ac0c8ea48fcd12b11"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:08:42.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2b84c0c8ea48fcd12b12"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:10:12.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2befc0c8ea48fcd12b13"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:11:59.736Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2c30c0c8ea48fcd12b14"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:13:04.070Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2c35c0c8ea48fcd12b15"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:13:09.105Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2c35c0c8ea48fcd12b16"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:13:09.276Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2c7dc0c8ea48fcd12b17"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:14:21.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2ca8ece713bce1c54888"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:15:04.539Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2d1aece713bce1c54889"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:16:58.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2d58ece713bce1c5488a"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:18:00.802Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2d83ece713bce1c5488b"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:18:43.864Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2da939253d97f918dc3d"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:19:21.753Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2dc339253d97f918dc3e"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:19:47.325Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2df774b50514daa4e670"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:20:39.938Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2e0668a815da3eecb4d8"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:20:54.381Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2e313b7a7697627af20e"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:21:37.811Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2e3d5b32f8e82047a640"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:21:49.240Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2e62528567c186b5d56a"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:22:26.151Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2f43574c70d647961634"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:26:11.761Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c2fb527b797ef0dfe5325"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:28:05.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c306c64a9e7236d426007"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:31:08.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c317664a9e7236d42600a"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 14,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-08T18:35:34.742Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66961e937e06fda38e514fa6"
+  },
+  "tenKhachHang": "Quang",
+  "id_khachHang": "6686a9ecce907d2608d80c17",
+  "soLuong": 1,
+  "tongTien": 45000,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-16T07:17:39.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66974dd781b8e6c773ffe71d"
+  },
+  "tenKhachHang": "zxmot22",
+  "id_khachHang": "668b85e68593d7c08fe1da2b",
+  "soLuong": 2,
+  "tongTien": 100000,
+  "trangThai": "Đang chuẩn bị",
+  "ngayThang": {
+    "$date": "2024-07-17T04:51:35.412Z"
+  }
+}]

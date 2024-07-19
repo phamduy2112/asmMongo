@@ -65,7 +65,8 @@ const putCategories = async (req, res) => {
 
     const categoriesId = req.params.categoriesId; // Lấy categoriesId từ URL
     const objectId = new ObjectId(categoriesId); // Chuyển đổi categoriesId sang ObjectId
-
+    console.log(categoriesId);
+    console.log(tenLoai);
     const result = await categoriesCollection.updateOne(
       { _id: objectId },
       {
@@ -75,7 +76,7 @@ const putCategories = async (req, res) => {
       }
     );
     if (result) {
-      responseSend(res, result, "Thành công !", 200);
+      responseSend(res, tenLoai, "Thành công !", 200);
     }
   } catch (e) {
     console.log(e);

@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "6684253446bbfb0fb4b2e503"
+  },
+  "name": "Sơ Mi Cotton Tay Dài",
+  "price": 320000,
+  "categoryId": "6680228e17919899a9449a08",
+  "image": "1719936308677_aoSoMi.webp",
+  "hot": 10,
+  "discount": 20,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "6684295a385b3ca35df0ff84"
+  },
+  "name": "Sơ Mi Tay Dài Trắng",
+  "price": 255000,
+  "categoryId": "6680228e17919899a9449a08",
+  "image": "1719937370291_aoSoMi2.webp",
+  "hot": 0,
+  "discount": 0,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "66842a00385b3ca35df0ff85"
+  },
+  "name": "Quần Tây Phối Eo Thun",
+  "price": "50000",
+  "categoryId": "6680290e579effa87c5a9606",
+  "image": "1719937536644_quan.jpg",
+  "hot": 20,
+  "discount": 10,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "66842a50385b3ca35df0ff86"
+  },
+  "name": "Quần tây nam slimfit",
+  "price": 55000,
+  "categoryId": "6680290e579effa87c5a9606",
+  "image": "1719937616809_quan2.webp",
+  "hot": 15,
+  "discount": 0,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "66842ab2385b3ca35df0ff87"
+  },
+  "name": "Quần Short Kaki Nam",
+  "price": 45000,
+  "categoryId": "6680290e579effa87c5a9606",
+  "image": "1719937714424_quanshort.webp",
+  "hot": 0,
+  "discount": 5,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "66842b06385b3ca35df0ff88"
+  },
+  "name": "Sơ Mi Tay Ngắn Xanh ",
+  "price": 38000,
+  "categoryId": "6680290e579effa87c5a9606",
+  "image": "1719937798014_soMiTayNgan.webp",
+  "hot": 21,
+  "discount": 15,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "66842b91385b3ca35df0ff89"
+  },
+  "name": "Nike Dunk Low\n",
+  "price": 1000000,
+  "categoryId": "66842b1fc2ecadf38994752a",
+  "image": "1719937937327_giay.png",
+  "hot": 0,
+  "discount": 5,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "66842c01385b3ca35df0ff8a"
+  },
+  "name": "Nike Air Force 1",
+  "price": 2000000,
+  "categoryId": "66842b1fc2ecadf38994752a",
+  "image": "1719938049463_giay2.png",
+  "hot": 6,
+  "discount": 30,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "66842c97385b3ca35df0ff8b"
+  },
+  "name": "Áo Thun Polo Đen",
+  "price": 500000,
+  "categoryId": "6680228e17919899a9449a08",
+  "image": "1719938199793_aopolo.webp",
+  "hot": 18,
+  "discount": 0,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "66842d0d385b3ca35df0ff8c"
+  },
+  "name": "Áo Thun Polo Xám",
+  "price": 7500000,
+  "categoryId": "6680228e17919899a9449a08",
+  "image": "1719938317339_aopolo1.jpg",
+  "hot": 0,
+  "discount": 0,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "668432e8385b3ca35df0ff8d"
+  },
+  "name": "Nike Dunk Low SE",
+  "price": 1800000,
+  "categoryId": "66842b1fc2ecadf38994752a",
+  "image": "1719939816361_giay3.png",
+  "hot": 19,
+  "discount": 0,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "6684335a385b3ca35df0ff8e"
+  },
+  "name": "Sơ Mi Tay Ngắn Xanh Đen",
+  "price": 800000,
+  "categoryId": "6680228e17919899a9449a08",
+  "image": "1719939930575_soMiTayNgan2.webp",
+  "hot": 0,
+  "discount": 10,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "668433c5385b3ca35df0ff8f"
+  },
+  "name": "Quần Kaki Dài Nam Trắng",
+  "price": 750000,
+  "categoryId": "6680290e579effa87c5a9606",
+  "image": "1719940037151_quan3.webp",
+  "hot": 0,
+  "discount": 0,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "6684341b385b3ca35df0ff90"
+  },
+  "name": "Nike Revolution 7",
+  "price": 2500000,
+  "categoryId": "66842b1fc2ecadf38994752a",
+  "image": "1719940123879_giay4.png",
+  "hot": 0,
+  "discount": 20,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "6684346d385b3ca35df0ff91"
+  },
+  "name": "Air Jordan Blue Low",
+  "price": 1500000,
+  "categoryId": "66842b1fc2ecadf38994752a",
+  "image": "1719940205893_giay5.jpg",
+  "hot": 0,
+  "discount": 0,
+  "quantity": 100
+}]
